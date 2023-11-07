@@ -1,2 +1,2 @@
 # testrepo
-It is a mark.
+It is a markdown.
